@@ -4,7 +4,7 @@ import "./style.css";
 import { getCustomerDataFormatted } from "../../utils/customerUtils";
 
 const RenderTableData = ({ data }) => {
-  return data.map(row => {
+  return data.map((row) => {
     const { id, monthStats, name, totalBonus } = row;
     return (
       <tr key={id}>
