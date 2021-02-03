@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "customerId": "1",
+    "createdAt": "1611324720490",
+    "amount": 200
+  },
+  {
+    "id": "2",
+    "customerId": "3",
+    "createdAt": "1612324790490",
+    "amount": 244
+  },
+  {
+    "id": "3",
+    "customerId": "4",
+    "createdAt": "1615324790490",
+    "amount": 550
+  },
+  {
+    "id": "4",
+    "customerId": "5",
+    "createdAt": "1611324790490",
+    "amount": 230
+  },
+  {
+    "id": "5",
+    "customerId": "4",
+    "createdAt": "1612324790490",
+    "amount": 333
+  },
+  {
+    "id": "6",
+    "customerId": "5",
+    "createdAt": "1615324790490",
+    "amount": 444
+  },
+  {
+    "id": "7",
+    "customerId": "2",
+    "createdAt": "1612324790490",
+    "amount": 666
+  },
+  {
+    "id": "8",
+    "customerId": "3",
+    "createdAt": "1612324790490",
+    "amount": 440
+  },
+  {
+    "id": "9",
+    "customerId": "3",
+    "createdAt": "1615324790490",
+    "amount": 700
+  }
+]
